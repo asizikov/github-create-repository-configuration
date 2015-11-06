@@ -4,8 +4,8 @@
 		"branches" : [
 			{
 				"name" : "develop",
-				"is_default" : true,
-				"is_protected" : true
+				"isDefault" : true,
+				"isProtected" : true
 			}
 		],
 		"labels" : 
