@@ -3,11 +3,6 @@
 	"repository" : {
 		"branches" : [
 			{
-				"name" : "master",
-				"default" : false,
-				"protected" : true
-			},
-			{
 				"name" : "develop",
 				"default" : true,
 				"protected" : true
