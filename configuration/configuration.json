@@ -2,6 +2,7 @@
 	"version" : 0.2,	
 	"repository" : {
 		"isPrivate" : "false",
+		"gitIgnoreTemplate" : "Visual Studio",
 		"branches" : [
 			{
 				"name" : "develop",
